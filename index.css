@@ -1,1 +1,2 @@
-svg:hover #skull { fill: darkslateblue; }
+svg:hover #skull { fill: darkslateblue; 
+transition: 1s}
